@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">PehMakan</string>
+    
+    <string name="makanan_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Laksan</item>
+        <item>Tekwan</item>
+        <item>Model</item>
+        <item>Mie Celor</item>
+        <item>Pindang Patin</item>
+        <item>Pindang Tulang</item>
+        <item>Kemplang</item>
+        <item>Celimpungan</item>
+        <item>Gulai Malbi</item>
+        <item>Burgo</item>
+        <item>Maksuba</item>
+        <item>Sambal Tempoyak</item>
+        <item>Kue Delapan Jam</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Laksan adalah makanan khas Palembang yang terbuat dari bahan baku sagu dan ikan. Laksan dibuat dalam bentuk oval dengan rasa yang hampir sama dengan pempek, tetapi disajikan dengan menggunakan kuah santan. Ada rasa gurih dan sedikit pedas, laksan tampak mirip dengan lontong sayur dengan adonan pempek sebagai bintang utamanya.</item>
+        <item>Tekwan adalah hidangan sup yang berasal dari Palembang. Tekwan sendiri merupakan singkatan dari kepanjangan “Berkotek Samo Kawan” yang dalam bahasa Indonesia dapat diartikan menjadi “mengobrol dengan teman”. Mirip dengan bakso ikan, tekwan berbentuk bulat kecil-kecil yang dibuat dari campuran ikan dan tepung sagu. Kuah tekwan terbuat dari udang sehingga memiliki rasa yang khas. Selain itu, tekwan juga disajikan bersama dengan pelengkap lainnya seperti sohun, jamur kuping, serta irisan bengkoang.</item>
+        <item>Model Palembang merupakan hidangan sup kaldu khas Kota Palembang yang memiliki kemiripan dengan pempek Palembang.Model terbuat dari daging ikan tenggiri dan sagu lalu dibentuk menyerupai pempek yang dipotong kecil-kecil. Perbedaan antara model palembang dan pempek palembang terletak pada proses pengolahannya, proses pengolahan model palembang diisi dengan tahu dan digoreng sebelum disajikan.</item>
+        <item>Mie celor adalah hidangan mi yang berasal dari kota Palembang. Kata "celor" dalam bahasa Melayu Palembang bermakna direndam ke dalam air panas (seduh), kemudian mi dicampur kuah santan dan kaldu udang yang kental dan gurih dan disajikan dengan pelengkap seperti telur rebus, tauge, dan kucai. Ukuran mi yang digunakan lebih besar daripada mi pada umumnya, seperti mi aceh atau udon dari Jepang. Makanan khas Palembang yang satu ini punya citarasa gurih seafood yang kuat. Kuahnya sedikit kental dan berwarna putih dari penambahan santan. Sajian ini cukup unik karena mie kuning sebagai bahan utama tidak dimasak bersamaan dengan bahan lainnya. Sesaat akan disajikan, mie kuning baru akan disiram dengan kuah berbumbu yang telah dimasak tersendiri dengan bahan lainnya.</item>
+        <item>Pindang patin adalah masakan khas Palembang yang terkenal dengan rasa gurih dan segar. Masakan ini terbuat dari ikan patin yang dimasak dalam kuah pindang yang terbuat dari bumbu-bumbu tradisional dan sayuran segar seperti tomat, daun bawang, cabai, dan asam jawa.
+                Ikan patin yang digunakan dalam masakan pindang patin biasanya dipilih yang masih segar dan memiliki daging yang kenyal. Ikan tersebut kemudian dipotong-potong menjadi beberapa bagian dan direbus bersama bumbu pindang yang telah disiapkan sebelumnya. Proses perebusan ini dilakukan dalam waktu yang cukup lama untuk memastikan bahwa bumbu dan rasa sudah meresap ke dalam daging ikan.
+                Pindang patin biasanya disajikan dengan nasi putih dan sambal sebagai pelengkap. Rasanya yang segar dan gurih membuat pindang patin menjadi hidangan yang sangat nikmat untuk dinikmati, terutama ketika disantap dalam suasana yang santai dan hangat bersama keluarga atau teman-teman.
+        </item>
+        <item>Pindang tak cuma bisa dibuat dengan bahan ikan. Sajian khas Palembang ini juga bisa dibuat dengan tulang iga sapi. Pindang Tulang berbahan dasar tulang sapi dengan sedikit daging yang masih menempel dan sumsum di dalam tulang, direbus dengan bumbu pedas, sama halnya dengan pindang patin, makanan ini nikmat disantap sebagai lauk dengan nasi putih hangat.</item>
+        <item>Kemplang atau Kelempang adalah sebuah krupuk ikan yang umum ditemukan di Sumatra Bagian Selatan. Kemplang adalah kerupuk yang terbuat dari ikan tenggiri, cumi, udang dan tepung sagu. Kemplang berbentuk bulat-pipih dengan rasa yang gurih dan renyah saat digigit. Dalam proses pembuatannya kemplang memiliki berbagai jenis, ada yang dibakar, digoreng dengan minyak, atau yang digoreng dengan pasir. Selain di Provinsi Sumatera Selatan, kemplang juga menyebar hingga Provinsi Lampung dan Provinsi Bangka Belitung, tak heran kemplang sangat mudah ditemukan di kawasan Sumatera Bagian Selatan.</item>
+        <item>Celimpungan adalah makanan dari Palembang yang rasanya tidak kalah dari pempek. Makanan ini berbahan dasar sagu dan ikan seperti halnya pempek. Perbedaan di antara keduanya terletak pada bentuk dan kuahnya.
+                Celimpungan berbentuk bulat dengan diameter 10 cm dan tipis (pipih) hampir seperti bakso. Kuahnya terbuat dari santan dan racikan bumbu-bumbu lainnya. Kuah Celimpungan yang terbuat dari santan memiliki warna kekuningan, namun rasanya tidak pedas. Sehingga untuk pecinta kuliner yang ingin mencicipi Celimpungan, sebaiknya menambahkan sambal goreng yang akan menambah sensasi kelezatannya. Bisa juga ditambahkan potongan lontong, dan kerupuk ikan.
+                Nama Celimpungan sendiri diambil dari kata cemplung. Dimana pada saat memasukkan bakso ikan kedalam kuah santan yang mendidih menimbulkan suara ‘plung’.  Akhirnya bakso ikan ini dinamakan dengan Celimpungan. Menurut sejarah, warna kuah yang berwarna kuning memiliki sebuah makna yang berarti meriah, ramai atau semarak. Jadi wajar, jika Celimpungan adalah salah satu makanan yang memiliki simbol yang mengobarkan semangat sebelum Anda beraktivitas.
+        </item>
+        <item>Gulai malbi adalah masakan gulai yang berasal dari Palembang dan menyerupai semur daging sapi. Makanan ini berwarna hitam dan bercita rasa manis dan gurih. Ciri utama dari Gulai malbi selain warnanya adalah kuahnya yang banyak dan kental juga penggunaan rempah. Bahan utama pembuatan masakan ini adalah daging sapi dan bumbu seperti asam jawa, mesoyi, cengkih, kayu manis, pala dan kecap manis.
+                Gulai malbi dimasak dengan cara perlahan hingga bumbu meresap ke dalam daging dan kuahnya mengental. Gulai malbi bisa dimasak menggunakan santan atau menggunakan air saja.
+                Gulai malbi biasanya dihidangkan bersama nasi minyak, kerupuk, sambal nanas dan juga acar. Gulai malbi juga dihidangkan bersama nasi putih atau ketupat sayur.
+        </item>
+        <item>Burgo adalah makanan khas dari Palembang. Pada tahun 2021 burgo sudah ditetapkan oleh Kementrian Pendidikan dan Kebudayaan (KEMDIKBUD) dengan nomor pendaftaran 202101401 sebagai Warisan Budaya Tak Benda (WBTB) yang berasal dari Provinsi Sumatera Selatan. Burgo dapat digolongkan sebagai makanan kecil dan bukan makanan utama. Makanan ini dapat ditemui di warung-warung khas Palembang dan biasanya disajikan bersama dengan makanan lain seperti lakso, laksan, dan celimpungan. Burgo akan terasa lebih nikmat dimakan jika dalam keadaan hangat, sehingga warung-warung biasanya menjajakan makanan ini dengan kompor untuk menghangatkannya. Bahan utama burgo adalah setengah kilogram beras, sagu, setengah kilogram ikan gabus, dan air. Selain itu, proses pembuatan burgo juga memakai bumbu-bumbu tambahan, seperti lengkuas, ketumbar, biji kemiri, kencur, temu kunci, bawang merah, bawang putih, gula pasir, daun salam, dan sedikit kapur sirih.</item>
+        <item>Kue maksuba adalah salah satu makanan khas Kota Palembang. Kue maksuba termasuk ke dalam kue basah dan memiliki rasa manis juga gurih. Memilki ciri khas berwarna kekuningan dan garis-garis kehitaman di tengahnya yang nampak seperti kue lapis.
+                Kue ini biasanya disajikan saat waktu tertentu misalnya saat lebaran, idul adha atau pernikahan. Kue Maksuba biasanya dijadikan sebagai salah satu hantaran saat pernikahan dan diserahkan oleh pengantin kepada orang tua dan mertuanya. Selain itu, kue Maksuba juga bisa sebagai antaran calon pengantin pria ke pengantin wanita saat lamaran. Saat lebaran, kue maksuba dibawa kembali oleh pengantin baru saat berkunjung ke rumah orang tua dan mertuanya. Hal ini bermakna bahwa kue ini merupakan simbol penghargaan kepada orang yang dihormati.
+                Kue ini memiliki kemiripan dengan kue Kojo, namun yang membedakan adalah bahan pembuatannya. Kue Maksuba menggunakan susu kental manis dan warnanya tidak hijau. Kue ini juga mirip dengan kue 8 jam. Bahan yang dibutuhkan sama dengan kue 8 jam, tetapi cara pembuatannya berbeda. Kue maksuba dibuat secara berlapis-lapis sehingga setelah selesai hasil kuenya berlapis-lapis mirip seperti pengerjaan kue lapis.
+        </item>
+        <item>Tempoyak adalah makanan yang terbuat dari durian yang sudah melalui proses fermentasi.  Cita rasa tempoyak adalah asam karena terjadinya proses fermentasi daging buah durian. Selain itu, tempoyak dijadikan bumbu masakan.
+                Tempoyak yang telah difermentasi selama 3-5 hari cocok untuk dibuat sambal karena sudah asam dan masih ada rasa manisnya. Sambal tempoyak biasanya dipadukan dengan ikan teri, ikan mas, ikan mujair, ikan patin, ataupun ikan-ikan lainnya. Tempoyak biasanya dinikmati dengan lalapan seperti petai, kabau atau jengkol.
+        </item>
+        <item>Kue delapan jam memiliki warna coklat kekuningan dengan pori–pori kecil yang tampak pada tiap potongannya. Teksturnya sendiri lembut dan agak sedikit kenyal. Ketika sampai di lidah, rasa legit dengan sensasi basah akan pecah di mulut dengan kenikmatan yang tiada duanya.
+                Kue yang menjadi warisan budaya takbenda Sumatera Selatan ini kaya akan nilai filosofis mengenai kehidupan dan ketuhanan.
+                Pertama, nilai ini tersirat pada proses pembuatannya yang memakan waktu berjam-jam. Ini memiliki arti bahwa kehidupan harus dijalani dengan sabar sebelum mencapai tujuan. Jika ada yang mencoba mengukus kue ini dengan waktu kurang dari 8 jam, cita rasanya pun tidak akan maksimal. Kue akan menjadi lembek dan tak berpori.
+                Lalu dari segi penamaan, pemilihan waktu delapan jam ini juga punya alasan. Dilansir dari IDN Times Sumsel, menurut sejarawan Palembang bernama Mang Amin, ini ada kaitannya dengan pembagian waktu dalam hidup.
+                Di mana dalam 24 jam waktu dalam sehari, setidaknya kita harus membaginya dengan 3 kegiatan yang berbeda selama 8 jam. Yaitu 8 jam untuk bekerja, 8 jam untuk istirahat, dan 8 jam untuk beribadah.
+                Angka 8 juga melambangkan jumlah orang yang mengangkat keranda kita ketika tutup usia nanti. Artinya, kita harus ingat bahwa hidup di dunia hanya sementara.
+        </item>
+    </string-array>
+    
+    <integer-array name="data_photo">
+        <item>@drawable/laksan</item>
+        <item>@drawable/tekwan</item>
+        <item>@drawable/model</item>
+        <item>@drawable/mie_celor</item>
+        <item>@drawable/pindang_patin</item>
+        <item>@drawable/pindang_tulang</item>
+        <item>@drawable/kemplang</item>
+        <item>@drawable/celimpungan</item>
+        <item>@drawable/malbi</item>
+        <item>@drawable/burgo</item>
+        <item>@drawable/maksuba</item>
+        <item>@drawable/sambal_tempoyak</item>
+        <item>@drawable/kue_delapan_jam</item>
+    </integer-array>
+
+</resources>
