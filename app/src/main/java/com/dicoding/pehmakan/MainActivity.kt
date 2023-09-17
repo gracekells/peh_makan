@@ -1,11 +1,11 @@
 package com.dicoding.pehmakan
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
-import android.widget.Toast
-import androidx.recyclerview.widget.GridLayoutManager
+import androidx.appcompat.widget.Toolbar
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        val toolbar = findViewById<Toolbar>(R.id.toolbar)
         setContentView(R.layout.activity_main)
 
         rvMakanan = findViewById(R.id.rv_makanan)
@@ -22,6 +23,23 @@ class MainActivity : AppCompatActivity() {
 
         list.addAll(getListMakanan())
         showRecyclerList()
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_main, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        return when (item.itemId){
+            R.id.action_about -> {
+                val intent = Intent(this, AboutPage::class.java)
+                startActivity(intent)
+                true
+            }
+
+            else -> super.onOptionsItemSelected(item)
+        }
     }
 
     private fun getListMakanan(): ArrayList<Makanan>{
@@ -49,7 +67,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showSelecetedMakanan(makanan: Makanan){
-        Toast.makeText(this, "Kamu memilih " + makanan.name, Toast.LENGTH_SHORT).show()
+        val intent = Intent(this, DetailActivity::class.java)
+        intent.putExtra("MAKANAN", makanan)
+        startActivity(intent)
     }
 
 }
